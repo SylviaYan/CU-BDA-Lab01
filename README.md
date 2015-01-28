@@ -15,5 +15,7 @@ back in late 2012.
 This is a snapshot of a sample of the polls data from 
 www.realclearpolitics.com.
 
+![sample polls data](https://cloud.githubusercontent.com/assets/10671904/5894672/59dfe252-a4d9-11e4-8682-4e147bcb4da8.png)
+
 Besides politics, I am also interested the application of Bayesian methods in the fields of astronomy 
 and healthcare (clinical trials).
